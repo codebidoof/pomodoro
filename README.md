@@ -1,17 +1,22 @@
-# pomodoro
+# Pomodoro
 
-A new Flutter project.
+Flutter를 학습하며 **Nomad Coders의 포모도로 앱 클론코딩 강의**를 따라 구현한 프로젝트입니다.
 
-## Getting Started
+## 📱 Project
 
-This project is a starting point for a Flutter application.
+- **Framework**: Flutter
+- **Language**: Dart
+- **Reference**: Nomad Coders - Flutter로 포모도로 앱 만들기
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Goal
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Flutter의 기본적인 위젯 구조와 상태 관리, 사용자 입력 및 UI 구현 방법을 학습하는 것을 목표로 클론코딩했습니다.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📚 What I Learned
+
+- Flutter Widget 구조
+- `StatefulWidget`과 상태 관리
+- `setState`
+- `Timer`를 활용한 포모도로 타이머 구현
+- 사용자 입력 및 UI 업데이트
+- Flutter의 기본 레이아웃 구성
